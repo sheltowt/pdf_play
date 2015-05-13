@@ -1,0 +1,12 @@
+{
+  "name": "pdf_play",
+  "description": "proof of concept for pdf generation",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Bill Shelton",
+  "dependencies": {
+    "express": "^4.12.3",
+    "node-couchbase": "^0.1.4-alpha",
+    "phantom": "^0.7.2"
+  }
+}
