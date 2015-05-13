@@ -5,6 +5,7 @@
   "private": true,
   "author": "Bill Shelton",
   "dependencies": {
+    "cron": "^1.0.9",
     "express": "^4.12.3",
     "node-couchbase": "^0.1.4-alpha",
     "phantom": "^0.7.2"
